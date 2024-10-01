@@ -14,7 +14,7 @@ export default function App() {
 
         <div className="mt-4 font-semibold">Published 21 Dec 2023</div>
 
-        <h1 className="my-3 font-black text-xl hover:text-yellow">
+        <h1 className="my-3 font-black text-xl hover:text-yellow hover:cursor-pointer">
           HTML & CSS foundations
         </h1>
         <p className=" text-sm text-[#6b6b6b] font-medium">
