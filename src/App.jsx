@@ -14,7 +14,9 @@ export default function App() {
 
         <div className="mt-4 font-semibold">Published 21 Dec 2023</div>
 
-        <h1 className="my-3 font-black text-xl">HTML & CSS foundations</h1>
+        <h1 className="my-3 font-black text-xl hover:text-yellow">
+          HTML & CSS foundations
+        </h1>
         <p className=" text-sm text-[#6b6b6b] font-medium">
           These languages are the backbone of every website, defining
           structure,content and presentation
